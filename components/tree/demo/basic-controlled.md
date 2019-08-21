@@ -66,7 +66,7 @@ class Demo extends React.Component {
   state = {
     expandedKeys: ['0-0-0', '0-0-1'],
     autoExpandParent: true,
-    checkedKeys: ['0-0-0'],
+    checkedKeys: ['0-0-0','0-0'],
     selectedKeys: [],
   };
 
